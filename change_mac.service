@@ -2,4 +2,4 @@
 Description=Change MAC Address Service
 
 [Service]
-ExecStart=/home/devops/Documents/change_mac.sh enp1s0
+ExecStart=CHANGE_TO_YOUR_SHELL_PATH/change_mac.sh enp1s0
