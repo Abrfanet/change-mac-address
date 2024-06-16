@@ -22,7 +22,7 @@ Nothing for now
 #### Open Terminal and type/paste the following commands
 1. Clone the directory to your comuter
 ```
-git clone https://github.com/mm580486/change-mac-address.git
+git clone https://github.com/Abrfanet/change-mac-address.git
 ```
 
 2. Go into the cloned Directory
