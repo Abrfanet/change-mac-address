@@ -1,0 +1,5 @@
+[Unit]
+Description=Change MAC Address Service
+
+[Service]
+ExecStart=/home/devops/Documents/change_mac.sh enp1s0
